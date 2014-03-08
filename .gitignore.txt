@@ -1,0 +1,25 @@
+# System #
+*~
+~*
+*.bak
+
+# IDEs #
+.idea
+*.sublime-*
+.classpath
+.project
+/.setting
+/bin
+
+# Bower #
+bower_components
+
+# JAVA #
+*.log
+
+# Custom #
+README.htm*
+
+/config
+/content
+/docs/api
