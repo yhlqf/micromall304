@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="micromall304"
+  id="myeclipse.1394278481509"
+  context-root="/micromall304"
+  j2ee-spec="6.0"
+  archive="micromall304.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+

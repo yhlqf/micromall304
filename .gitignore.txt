@@ -8,8 +8,11 @@
 *.sublime-*
 .classpath
 .project
+/.myeclipse
 /.setting
 /bin
+/classes
+/lib
 
 # Bower #
 bower_components
